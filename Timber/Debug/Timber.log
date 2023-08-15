@@ -1,0 +1,9 @@
+﻿  Timber.cpp
+D:\programming\CPP\work\Games\2D_Games\Timber\Timber.cpp(94,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\Timber\Timber.cpp(317,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\Timber\Timber.cpp(347,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\Timber\Timber.cpp(410,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\Timber\Timber.cpp(414,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\Timber\Timber.cpp(444,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\Timber\Timber.cpp(481,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> D:\programming\CPP\work\Games\2D_Games\Timber\Debug\Timber.exe
