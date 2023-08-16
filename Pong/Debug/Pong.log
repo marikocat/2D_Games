@@ -1,0 +1,9 @@
+﻿  Ball.cpp
+  Pong.cpp
+D:\programming\CPP\work\Games\2D_Games\Pong\Pong.cpp(169,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Pong.vcxproj -> D:\programming\CPP\work\Games\2D_Games\Pong\Debug\Pong.exe
