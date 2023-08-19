@@ -1,0 +1,148 @@
+﻿  Bullet.cpp
+  CreateBackground.cpp
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(31,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(31,16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(34,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(34,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(37,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(37,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(40,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(40,16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(68,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(71,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(74,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateBackground.cpp(77,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CreateHorde.cpp
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(25,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(26,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(30,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(31,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(35,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(36,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(40,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\CreateHorde.cpp(41,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pickup.cpp
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Pickup.cpp(27,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Pickup.cpp(28,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Pickup.cpp(53,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Pickup.cpp(53,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Pickup.cpp(109,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Pickup.cpp(113,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(8,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(9,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(22,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(23,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(43,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(44,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(156,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(161,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(166,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(171,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(175,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(183,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Player.cpp(189,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  TextureHolder.cpp
+  Zombie.cpp
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Zombie.cpp(42,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\Zombie.cpp(121,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ZombieArena.cpp
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\ZombieArena.cpp(28,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\ZombieArena.cpp(29,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\ZombieArena.cpp(32,37): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\ZombieArena.cpp(32,23): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\CPP\work\Games\2D_Games\ZombieArena\ZombieArena.cpp(632,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  ZombieArena.vcxproj -> D:\programming\CPP\work\Games\2D_Games\ZombieArena\Debug\ZombieArena.exe
